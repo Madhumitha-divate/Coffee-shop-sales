@@ -67,4 +67,4 @@ coffee-shop-sales-analysis/
 Open `dashboard/coffee_shop_sales.pbix` in Power BI Desktop (free to download from Microsoft).
 
 ## Contact
-**Madhumitha Divate** | madhudivate28@gmail.com | [LinkedIn](ADD-YOUR-LINKEDIN-LINK) | Bengaluru, India
+**Madhumitha Divate** | madhudivate28@gmail.com |Bengaluru, India
